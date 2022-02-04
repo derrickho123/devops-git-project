@@ -5,7 +5,7 @@ public class Material {
 	protected String description;
 	protected String text;
 	protected String url;
-	protected String number;
+	protected boolean number;
 	
 	public String getTitle() {
 		return title;
