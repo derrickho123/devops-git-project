@@ -65,7 +65,7 @@ value='${material.text}' />" class="form-control"
 						name="text">
 				</fieldset>
 				<fieldset class="form-group">
-					<label> Language</label> <input type="text"
+					<label>Url</label> <input type="text"
 						value="<c:out
 value='${material.url}' />" class="form-control"
 						name="url">
