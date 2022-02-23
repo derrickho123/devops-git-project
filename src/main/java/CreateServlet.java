@@ -68,7 +68,7 @@ public class CreateServlet extends HttpServlet {
 				PrintWriter writer = response.getWriter();
 				writer.println("<h1>" + "You have successfully created a material!" +
 						"</h1>");
-				response.sendRedirect("http://localhost:8090/LearningPlatformJavaEE/MaterialServlet/dashboard");
+				response.sendRedirect("http://localhost:8090/devops-git-project/MaterialServlet/dashboard");
 				writer.close();
 			}
 		}

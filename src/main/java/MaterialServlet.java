@@ -113,7 +113,7 @@ public class MaterialServlet extends HttpServlet {
 			statement.setString(5, oriTitle);
 			int i = statement.executeUpdate();
 		}
-		response.sendRedirect("http://localhost:8090/LearningPlatformJavaEE/MaterialServlet/dashboard");
+		response.sendRedirect("http://localhost:8090/devops-git-project/MaterialServlet/dashboard");
 	}
 	
 	private void deleteMaterial(HttpServletRequest request, HttpServletResponse response)
@@ -126,7 +126,7 @@ public class MaterialServlet extends HttpServlet {
 				 statement.setString(1, title);
 				 int i = statement.executeUpdate();
 				 }
-		response.sendRedirect("http://localhost:8090/LearningPlatformJavaEE/MaterialServlet/dashboard");
+		response.sendRedirect("http://localhost:8090/devops-git-project/MaterialServlet/dashboard");
 	}
 
 
