@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-26T04:13:39 SGT" name="Default suite" finished-at="2022-02-26T04:13:43 SGT" duration-ms="3929">
+  <suite started-at="2022-02-26T04:23:30 SGT" name="Default suite" finished-at="2022-02-26T04:23:33 SGT" duration-ms="2986">
     <groups>
     </groups>
-    <test started-at="2022-02-26T04:13:39 SGT" name="Default test" finished-at="2022-02-26T04:13:43 SGT" duration-ms="3929">
+    <test started-at="2022-02-26T04:23:30 SGT" name="Default test" finished-at="2022-02-26T04:23:33 SGT" duration-ms="2986">
       <class name="SeleniumTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:SeleniumTest@36d585c]" started-at="2022-02-26T04:13:39 SGT" name="beforeTest" finished-at="2022-02-26T04:13:40 SGT" duration-ms="925" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:SeleniumTest@36d585c]" started-at="2022-02-26T04:23:30 SGT" name="beforeTest" finished-at="2022-02-26T04:23:31 SGT" duration-ms="879" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="checkTitle()[pri:0, instance:SeleniumTest@36d585c]" started-at="2022-02-26T04:13:40 SGT" name="checkTitle" finished-at="2022-02-26T04:13:43 SGT" duration-ms="2900" status="PASS">
+        <test-method signature="checkTitle()[pri:0, instance:SeleniumTest@36d585c]" started-at="2022-02-26T04:23:31 SGT" name="checkTitle" finished-at="2022-02-26T04:23:33 SGT" duration-ms="1997" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkTitle -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:SeleniumTest@36d585c]" started-at="2022-02-26T04:13:43 SGT" name="afterTest" finished-at="2022-02-26T04:13:43 SGT" duration-ms="84" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:SeleniumTest@36d585c]" started-at="2022-02-26T04:23:33 SGT" name="afterTest" finished-at="2022-02-26T04:23:33 SGT" duration-ms="91" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

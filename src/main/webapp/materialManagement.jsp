@@ -131,7 +131,7 @@
 						</p>
 					</div>
 				</div>
-				<p>
+				<p class="text-center">
 					<a href="<c:out value="${material.url}" />">Read More</a>
 				</p>
 				<br>
