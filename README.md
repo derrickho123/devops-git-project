@@ -7,7 +7,7 @@ General Use
 
 Jenkins
 1. If you are unable to build the project, feel free to create a new branch and delete the test files first. After that build the server.
-2. Add back the deleted testing files after building your server as the testing files require the Tomcat server to be running first.
+2. Add back the deleted test files after building your server as the testing files require the Tomcat server to be running first.
 
 Tomcat Server
 1. Make sure your Tomcat server are running in the background when jenkins is building the project from git repository.
