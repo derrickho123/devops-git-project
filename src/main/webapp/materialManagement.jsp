@@ -125,12 +125,14 @@
 							<c:out value="${material.text}" />
 						</p>
 						<p>
-							<a href="edit?title=<c:out value='${material.title}' />">Edit</a>
-							&nbsp;&nbsp;&nbsp;&nbsp; <a
-								href="delete?title=<c:out value='${material.title}' />">Delete</a>
+							<a href="delete?title=<c:out value='${material.title}' />">Delete</a>
 						</p>
 					</div>
 				</div>
+				<p class="text-center">
+					<a href="edit?title=<c:out value='${material.title}' />">Edit</a>
+				</p>
+				<br>
 				<p class="text-center">
 					<a href="<c:out value="${material.url}" />">Read More</a>
 				</p>
