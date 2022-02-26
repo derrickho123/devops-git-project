@@ -6,7 +6,7 @@ General Use
 3. Open up a web browser to access the localhost.
 
 Jenkins
-1. If you are unable to build the project, feel free to delete the test files and build the server first.
+1. If you are unable to build the project, feel free to create a new branch and delete the test files first. After that build the server.
 2. Add back the deleted testing files after building your server as the testing files require the Tomcat server to be running first.
 
 Tomcat Server
