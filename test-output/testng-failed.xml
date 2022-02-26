@@ -5,9 +5,11 @@
     <classes>
       <class name="SeleniumTest">
         <methods>
+          <include name="checkDashboardTitle"/>
           <include name="afterTest"/>
-          <include name="checkTitle"/>
           <include name="beforeTest"/>
+          <include name="checkEditTitle"/>
+          <include name="checkUrl"/>
         </methods>
       </class> <!-- SeleniumTest -->
     </classes>
